@@ -1,0 +1,12 @@
+.card{
+    background: green;
+    padding-top: 50px;
+    height:900px;
+}
+.hoja{
+    background: white;
+    padding-top:400px;
+    height:100px;
+    width:300px;
+    margin:auto;
+}

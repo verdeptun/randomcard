@@ -1,0 +1,22 @@
+{
+  "name": "randomcard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx servor . index.html 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verdeptun/randomcard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/verdeptun/randomcard/issues"
+  },
+  "homepage": "https://github.com/verdeptun/randomcard#readme",
+  "dependencies": {
+  }
+}
